@@ -1,7 +1,7 @@
 ### Hi there, My  name is Andrew.
 ## 🔭 I’m currently working on the site of the best musoc teacher from NJ.
 
-🏡 [website][website] **|** 
+🏡 [website][website] 
 
 [website]: http://juliastudio.co/
 
