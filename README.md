@@ -1,6 +1,6 @@
 ### Hi there, My  name is Andrew.
 ## 🔭 I’m currently working on the site of the best musoc teacher from NJ.
-# http://juliastudio.co/
+[website]: http://juliastudio.co/
 
 <!--
 **andrewstepanets/andrewstepanets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
