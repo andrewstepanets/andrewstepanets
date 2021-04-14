@@ -1,5 +1,6 @@
 ### Hi there, My  name is Andrew.
 ## 🔭 I’m currently working on the site of the best music teacher from NJ.
+# And now I've just completed amazing training of React
 
 🏡 [website][website] 
 
