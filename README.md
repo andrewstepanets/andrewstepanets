@@ -1,6 +1,6 @@
 ### Hi there, My  name is Andrew.
 ### With over 6 years of experience in web development and 3+ years specializing in React and TypeScript, brings extensive expertise in developing and maintaining front-end applications.
-#### Proficient in writing high-quality code, ensuring comprehensive test coverage, and utilizing accessibility tools. Skilled in planning and executing development tasks, analyzing and evaluating results to ensure high-quality outcomes.
+Proficient in writing high-quality code, ensuring comprehensive test coverage, and utilizing accessibility tools. Skilled in planning and executing development tasks, analyzing and evaluating results to ensure high-quality outcomes.
 
 
 <!--
